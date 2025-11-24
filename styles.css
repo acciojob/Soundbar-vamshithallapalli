@@ -1,1 +1,18 @@
 /*  your css code here. If applicable */
+.content{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background-color: #8f10c9;
+	min-height: 100vh;
+	gap: 20px;
+	padding:10px;
+}
+
+button{
+	padding: 10px;
+	background-color: #4b0f66;
+	border: none;
+	color: white;
+	width: 100px
+}
